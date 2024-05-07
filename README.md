@@ -8,6 +8,7 @@
 | SQL Practice                   | [SQL Practice](SQLPractice.md)        |
 | The Command Line               | [The Command Line](./ComandLine.md)    |
 |   - Prework: Mindset Reminders | [Prework: Mindset Reminders](PrepYourMindset.md) |
+| Class 01                       | [Class 01](class-01.md)                 |
 
 
 # Reading Notes
