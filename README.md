@@ -6,9 +6,10 @@
 | Courses                        |                                       |
 |   - Code 401 - Advanced        | [Code 401 - Advanced](#code-401---advanced-software-development) |
 | SQL Practice                   | [SQL Practice](SQLPractice.md)        |
-| The Command Line               | [The Command Line](./ComandLine.md)    |
+| The Command Line               | [The Command Line](./ComandLine.md)  |
 |   - Prework: Mindset Reminders | [Prework: Mindset Reminders](PrepYourMindset.md) |
-| Class 01                       | [Class 01](class-01.md)                 |
+| Class 01                       | [Class 01](class-01.md)               |
+| Class 03                       | [Class 03](class03.md)               |
 
 
 # Reading Notes 
