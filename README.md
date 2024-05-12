@@ -12,6 +12,7 @@
 | Class 03                       | [Class 03](class03.md)                              |
 | Class 04                       | [Class 04](class04.md) , [Class 04](class04(2).md) |
 
+
 # Reading Notes 
 
 ## Website Purpose
