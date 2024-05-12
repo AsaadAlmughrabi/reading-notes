@@ -1,6 +1,4 @@
-Certainly! Here's the organized information in Markdown format:
 
-```markdown
 ## File Handling in Python
 
 ### Introduction
