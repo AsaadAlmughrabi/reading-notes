@@ -9,7 +9,7 @@
 |   - Prework: Mindset Reminders | [Prework: Mindset Reminders](PrepYourMindset.md) |
 | Class 01                       | [Class 01](class-01.md)               |
 | Class 03                       | [Class 03](class03.md)               |
-| Class 04                       | [Class 04](class04.md)               |
+| Class 04                       | [Class 04](./class04.md)               |
 
 
  
