@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Design patterns are common solutions to recurring problems in software design, facilitating effective communication and implementation of best practices. This README provides an overview of different types of patterns and their significance in software development.
+Design patterns are common solutions to recurring problems in software design, facilitating effective communication and implementation of best practices.
 
 ## Programming Paradigms
 
@@ -57,5 +57,3 @@ Different viewpoints consider risks' potential effects, causes, and likelihood o
 ## How to Perform Risk Analysis?
 
 Risk analysis comprises finding, understanding, and addressing risks, often through team review and prioritization of the most critical issues.
-
-In essence, risk analysis aids in understanding potential project pitfalls, their severity, and mitigation strategies for smoother project execution.
