@@ -12,7 +12,7 @@
 | Class 03                       | [Class 03](class03.md)                              |
 | Class 04                       | [Class 04](class04.md) , [Class 04(2)](class04(2).md) |
 | Class 05                       | [Class 05](class05.md)                              |
-| Read 08                        | [Read 08](read08.md)                                |
+| Read 08                        | [Read 08](read09.md)                                |
 
 
 # Reading Notes 
