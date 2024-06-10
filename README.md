@@ -4,17 +4,18 @@
 | ------------------------------ | --------------------------------------------------- |
 | Website Purpose                | [Website Purpose](#website-purpose)                 |
 | Courses                        |                                                     |
-|   - Code 401 - Advanced        | [Code 401 - Advanced](#code-401---advanced)        |
+|   - Code 401 - Advanced        | [Code 401 - Advanced](#code-401---advanced)         |
 | SQL Practice                   | [SQL Practice](SQLPractice.md)                      |
 | The Command Line               | [The Command Line](Command-Line.md)                 |
-|   - Prework: Mindset Reminders | [Prework: Mindset Reminders](PrepYourMindset.md)   |
-| Class 01                       | [Class 01](class-01.md)                            |
+|   - Prework: Mindset Reminders | [Prework: Mindset Reminders](PrepYourMindset.md)    |
+| Class 01                       | [Class 01](class-01.md)                             |
 | Class 03                       | [Class 03](class03.md)                              |
 | Class 04                       | [Class 04](class04.md), [Class 04(2)](class04(2).md)|
 | Class 05                       | [Class 05](class05.md)                              |
 | Read 08                        | [Read 08](read09.md)                                |
 | Read 13                        | [Read 13](read13.md)                                |
 | Read 15                        | [Read 15](read15.md)                                |
+| Read 16                        | [Read 16](read16.md)                                |
 | Class 09                       | [Class 09](class09.md)                              |
 
 
