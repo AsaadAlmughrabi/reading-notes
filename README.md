@@ -17,7 +17,9 @@
 | Read 15                        | [Read 15](read15.md)                                |
 | Read 16                        | [Read 16](read16.md)                                |
 | Read 17                        | [Read 17](read17.md)                                |
+| Read 18                        | [Read 18](read18.md)                                |
 | Class 09                       | [Class 09](class09.md)                              |
+
 
 # Reading Notes 
 
